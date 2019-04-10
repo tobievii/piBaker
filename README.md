@@ -7,3 +7,9 @@ Requirements
 - Get PiBakery from https://github.com/davidferguson/pibakery/releases 
 
 Open my recipes and start baking IoT!
+
+Using Raspberry Pi 3 B+ (first boot needs ethernet internet connection there after you can wifi connect)
+
+Takes Approximitly 1.5 hours to fully install and complete bootup, just use pi bakery and recipe , plug in and wait for completed 
+
+
